@@ -1,8 +1,10 @@
-package com.rafli.si5a.myquote;
+package com.rafli.si5a.myquote.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.rafli.si5a.myquote.R;
 
 public class MainActivity extends AppCompatActivity {
 
