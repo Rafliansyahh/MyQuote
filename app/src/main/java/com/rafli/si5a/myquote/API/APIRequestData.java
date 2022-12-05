@@ -1,4 +1,4 @@
-package com.rafli.si5a.myquote;
+package com.rafli.si5a.myquote.API;
 
 import com.rafli.si5a.myquote.Model.QuoteModel;
 
